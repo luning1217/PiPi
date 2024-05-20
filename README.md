@@ -18,5 +18,5 @@ Thank you for your patience and support!
 For further information or any queries, please contact us through:
 
 - Email: luning1217@gmail.com
-- GitHub Issues: [Submit a question](https://github.com/yourusername/yourrepository/issues)
+- GitHub Issues: [Submit a question](https://github.com/luning1217/PiPi/issues)
 
