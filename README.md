@@ -1,6 +1,7 @@
 # Project Name
+Thank you for your attention！
 
-Welcome to the GitHub page of [Project Name]!
+Welcome to the GitHub page of PiPi!
 
 ## Code and Data Preparation in Progress
 
